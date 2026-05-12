@@ -1,4 +1,4 @@
-# Content
+# Cell-cell communication inference from single-cell data
 
 ## 1. Consensus CCC from dissociated single-cell data using LIANA+
 
