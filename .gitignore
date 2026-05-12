@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+3_spatial/data/MERFISH_mouse_brain/WB_MERFISH_animal2_coronal.h5ad
+
 # Distribution / packaging
 .Python
 build/
